@@ -1,0 +1,4 @@
+docker-mediawiki
+================
+
+Dockerized Mediawiki.
